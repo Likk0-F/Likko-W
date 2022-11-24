@@ -1,0 +1,107 @@
+body{
+	background:url("C:\Users\likko\Desktop\VAC\P.hub\Images/lib-blog3.png");
+	background-color:black;
+}
+
+img{
+	width:300px
+}
+
+.nav{
+	background:blue;
+	height:50px;
+	
+}
+.nav div{
+	display:inline-block;
+	position:absolute;
+	left:0;
+	padding:15px;
+	font-size::50px;
+	color:white;
+
+}
+.nav ul{
+	position:absolute;
+	right:5px;
+}
+
+.nav ul li{
+	display:inline-block;
+}
+
+.nav ul li a{
+	color:white;
+	padding:5px;
+
+}
+.text-container{
+	color:white;
+	text-align:center;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	height:90vh;
+
+}
+
+.founder-content {
+	color:white;
+
+}
+.founder-content h1{
+	margin:100px auto 0 auto;
+	font-family:verdana;
+	text-align:center;
+}
+
+.about-content{
+	color:white;
+	margin:150px auto 0 auto;
+	width: 500px;
+
+}
+
+.about-content h1{
+	font-family:verdana;
+	text-align:center;
+	ttext-decoration:underline solid;
+	padding:10px:;
+}
+.about-content p{
+	font-family:verdana;
+	color:blue;
+	text-align:justify;
+	line-height:1.5em;
+
+}
+
+.services-content{
+	font-family:verdana;
+	text-align:center;
+	color:white;
+	margin:100px auto 0 auto;
+}
+.services-content h1{
+	color:red;
+}
+.serve-container ul{
+	padding:0;
+}
+.serve-container ul li{
+	list-style:none;
+	display:inline-block;
+	margin:20px;
+	width:300px;
+}
+.serve-container ul li{
+	color:green;
+	ttext-align:justify;
+}
+
+.contact-content{
+	font-family:vedana;
+	color:red;
+	text-align:center;
+	margin:80px auto 0 auto;
+}
